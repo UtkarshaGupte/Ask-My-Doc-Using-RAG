@@ -25,3 +25,4 @@ To run the backend of the AskMyDoc application, follow these steps:
 
 With both the frontend and backend running, you can now upload documents, ask questions related to the document's content, and receive answers through the user-friendly interface provided by the Streamlit application.
 
+More details - https://medium.com/@guptesutkarsha/unleashing-knowledge-from-documents-with-open-source-language-models-5d31b236eeff
